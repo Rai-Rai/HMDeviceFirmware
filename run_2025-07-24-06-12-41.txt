@@ -1,4 +1,4 @@
-External IP: 20.55.15.100
+External IP: 20.55.222.83
 Getting firmware list
 Downloading firmware file 1 of 211 (ELV-SH-BM-S).              
 Downloading firmware file 2 of 211 (ELV-SH-CTH).              
@@ -213,4 +213,5 @@ Downloading firmware file 210 of 211 (HmIPW-WTH).
 Downloading firmware file 211 of 211 (HmIPW-WTH-A).              
 
 Moving files into directories
+hm-lc-rgbw-wm_update_V1_0_150723.tgz has no changelog.txt
 Done.

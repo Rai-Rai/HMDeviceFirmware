@@ -3,14 +3,18 @@ C H A N G E L O G
 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx!
 
-Device:      ELV-SH-BM-S - ELV Smart Home Basismodul Sensor (Bausatz)
+Device:      HmIPW-WRC6 - Homematic IP Wired Wandtaster â 6-fach
 
-Company:     ELV Elektronik AG, Maiburger Str. 29 - 36, 26789 Leer, Germany
+Company:     eQ-3, Maiburger Str. 29, 26789 Leer, Germany
 
 
-Version 1.0.0 - 2023-10-11
+
+Version 1.2.2 - 2022-10-19
 --------------------------------------------------------------
 
-First Release.
+** Improvement
+   * General improvements - Code optimisation
+
+
 
 --- END OF FILE ---
