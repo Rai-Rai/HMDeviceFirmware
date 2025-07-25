@@ -1,4 +1,4 @@
-﻿R E L E A S E   N O T E S
+R E L E A S E   N O T E S
 -------------------------
 
 

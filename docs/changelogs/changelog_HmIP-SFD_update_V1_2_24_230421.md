@@ -1,4 +1,4 @@
-﻿C H A N G E L O G
+C H A N G E L O G
 -----------------
 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx!
@@ -19,7 +19,7 @@ Version 1.2.22 - 2020-12-14
    * Temperature and humidity measurement fixed.
 
 ** New Feature
-   * More measured values â€‹â€‹and a particulate matter class added.
+   * More measured values ââand a particulate matter class added.
       PM1.0 value set / PM1.0 24h value / PM2.5 24h value / PM10.0 24h value 
 
 
