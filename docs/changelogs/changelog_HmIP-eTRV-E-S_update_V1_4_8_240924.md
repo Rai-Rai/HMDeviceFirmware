@@ -1,9 +1,9 @@
-C H A N G E L O G
+﻿C H A N G E L O G
 -----------------
 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx!
 
-Device:      HmIP-eTRV-E - Homematic IP HeizkÃ¶rperthermostat â Evo
+Device:      HmIP-eTRV-E - Homematic IP HeizkÃ¶rperthermostat â€“ Evo
 
 alte Bezeichnung:
 Homematic IP HeizkÃ¶rperthermostat
@@ -41,7 +41,7 @@ Version V1.4.004 - 2023-10-06
    * ARR Bit of Status Info Frame set False after Inclusion
 
 ** Improvement
-   * Status Info nach Ãnderung der Ventilposition wird spÃ¤t gesendet
+   * Status Info nach Ã„nderung der Ventilposition wird spÃ¤t gesendet
 
 
 
@@ -55,7 +55,7 @@ Version V1.4.002 - 2023-09-19
    * Status info after window open has wrong valve level
 
 ** Improvement
-   * Status Info nach Ãnderung der Ventilposition wird spÃ¤t gesendet
+   * Status Info nach Ã„nderung der Ventilposition wird spÃ¤t gesendet
 
 
 

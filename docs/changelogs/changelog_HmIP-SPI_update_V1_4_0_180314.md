@@ -1,4 +1,4 @@
-Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2/3 ab
+﻿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2/3 ab
 Version 2(3).29.23
 
 Please note: Only use the firmware file in connection with the CCU2/3 from

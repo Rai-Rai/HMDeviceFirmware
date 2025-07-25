@@ -1,8 +1,8 @@
-Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
-
-Please note: Only use the firmware file in connection with the latest CCU2/3 version.
-
-Changelog:
+﻿Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
+1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),
+2. den Aus/runter-Taster (UP-Markenschalter) bzw. den Bedientaster von Kanal 1 (sonstige Aktoren) drücken und festhalten,
+3. bei immer noch gedrückt gehaltener Taste den Aktor wieder mit Netzspannung versorgen.
+4. Sobald die LED schnell blinkt, kann die Taste losgelassen werden. Das Update wird jetzt durchgeführt.
 
 Version 2.9.5 - 20150729
 --------------------------------------------------------------
