@@ -1,9 +1,9 @@
-﻿C H A N G E L O G
+C H A N G E L O G
 -----------------
 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx!
 
-Device: HmIP-SWDO-A - Homematic IP Window / Door Contact â€“ optical, anthrazit
+Device: HmIP-SWDO-A - Homematic IP Window / Door Contact â optical, anthrazit
 
 Homematic IP Fenster- und TÃ¼rkontakt - optisch
 
