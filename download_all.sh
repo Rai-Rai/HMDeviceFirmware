@@ -27,6 +27,8 @@ for row in ${output}; do
 done
 echo "" | tee -a ${runfile}
 echo "Moving files into directories" | tee -a ${runfile}
+# Use an array to track latest device models
+latest_models=()
 for f in *gz; do
   pref=`ls $f|awk -F'[-_]' {'print $1'}`
   
@@ -47,6 +49,9 @@ for f in *gz; do
     fwversion=${fwversion//[$'\n\r']/}
     fwdevicename=`grep "Name=" info|cut -d "=" -f 2`
     fwdevicename=${fwdevicename//[$'\n\r']/}
+    if [ -n "$fwdevicename" ]; then
+      latest_models+=("$fwdevicename")
+    fi
   fi
 
   #parse changelog
@@ -79,9 +84,16 @@ do
   echo ""                                        >> ./docs/index.md
   echo "| Device Model | Version |"              >> ./docs/index.md
   echo "| ------------- |:-------------:|"       >> ./docs/index.md
-  cat ./docs/_index.md.tmp.$i | sort             >> ./docs/index.md
+  while IFS= read -r idxline; do
+    model=$(echo "$idxline" | awk -F'|' '{print $2}' | sed 's/^ *//;s/ *$//')
+    for latest in "${latest_models[@]}"; do
+      if [ "$model" = "$latest" ]; then
+        idxline=$(echo "$idxline" | sed "s/^| \([^|]*\) |/| **\1** |/")
+        break
+      fi
+    done
+    echo "$idxline" >> ./docs/index.md
+  done < <(cat ./docs/_index.md.tmp.$i | sort)
   echo "</details>"                              >> ./docs/index.md
 done
-
-rm ./docs/_index.md.*
 echo "Done." | tee -a ${runfile}
