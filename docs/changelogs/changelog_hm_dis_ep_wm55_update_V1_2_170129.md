@@ -1,4 +1,4 @@
-ï»¿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.19.1.
+﻿ï»¿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der CCU2 ab Version 2.19.1.
 Die jeweils aktuellste Version finden Sie im Downloadbereich unter www.eQ-3.de.
 
 Please note: Only use the firmware file in connection with the with the CCU2 from version 2.19.1.

@@ -1,4 +1,4 @@
-ï»¿C H A N G E L O G
+﻿ï»¿C H A N G E L O G
 -----------------
 
 Please note: Only use the firmware file in connection with the current software-version

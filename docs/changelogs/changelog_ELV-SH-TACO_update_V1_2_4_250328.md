@@ -1,4 +1,4 @@
-C H A N G E L O G
+﻿C H A N G E L O G
 -----------------
 
 Please note: Only use the firmware file in connection with the current software-version of the CCUx!
@@ -16,7 +16,7 @@ Version 1.2.004 - 2025-03-12
 
 ** Improvement
    * Made the trigger behavior more dynamic for the "Position Detection" and "Tilt Detection" motion detection modes
-   * Reduced power consumption in the accelerometerâs idle mode
+   * Reduced power consumption in the accelerometerâ€™s idle mode
    * Reset reference vector during factory reset
 
 
