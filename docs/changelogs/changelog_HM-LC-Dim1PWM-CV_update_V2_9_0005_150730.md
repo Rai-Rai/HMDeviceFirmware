@@ -1,4 +1,4 @@
-﻿Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
+Um den Aktor in den Update-Mode zu versetzen, ist wie folgt vorzugehen:
 1. Netzspannung ausschalten / vom Gerät trennen (Ggfs. Sicherheitshinweise der Installation beachten!),
 2. den Aus/runter-Taster (UP-Markenschalter) bzw. den Bedientaster von Kanal 1 (sonstige Aktoren) drücken und festhalten,
 3. bei immer noch gedrückt gehaltener Taste den Aktor wieder mit Netzspannung versorgen.

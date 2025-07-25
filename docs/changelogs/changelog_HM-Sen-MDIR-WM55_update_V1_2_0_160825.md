@@ -1,4 +1,4 @@
-﻿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 Version 2.11.9.
+Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit dem Firmware Update Tool ab Version 1.1 sowie der CCU2 Version 2.11.9.
 Die aktuellste Version des Firmware Update Tools finden Sie im Downloadbereich der Website www.eQ-3.de.
 
 Please note: Only use the firmware file in connection with the Firmware Update Tool from version 1.1 as well as version 2.11.9 of the CCU2.

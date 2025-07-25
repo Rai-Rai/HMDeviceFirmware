@@ -1,4 +1,4 @@
-﻿Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
+Achtung! Bitte verwenden Sie die Firmware-Datei nur in Verbindung mit der aktuellsten CCU2/3 Version.
 
 Please note: Only use the firmware file in connection with the latest CCU2/3 version.
 
