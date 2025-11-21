@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 20.11.2025, 13:05:30 Uhr_
+_last generated: 21.11.2025, 13:04:56 Uhr_
 
 <details open><summary>HmIP</summary>
 
