@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 12.01.2026, 13:11:48 Uhr_
+_last generated: 13.01.2026, 13:12:26 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -18,6 +18,7 @@ _last generated: 12.01.2026, 13:11:48 Uhr_
 | HmIP-BDT | [V2.2.4](changelogs/changelog_HmIP-BDT_update_V2_2_4_231110.md) |
 | HmIP-BDT-I | [V2.2.0](changelogs/changelog_HmIP-BDT-I_update_V2_2_0_230703.md) |
 | HmIP-BRC2 | [V2.8.2](changelogs/changelog_HmIP-BRC2_update_V2_8_2_250225.md) |
+| HmIP-BRC2-2 | [V2.8.2](changelogs/changelog_HmIP-BRC2-2_update_V2_8_2_250225.md) |
 | HmIP-BROLL | [V1.10.16](changelogs/changelog_HmIP-BROLL_update_V1_10_16_230508.md) |
 | HmIP-BROLL-2 | [V1.10.16](changelogs/changelog_HmIP-BROLL-2_update_V1_10_16_230626.md) |
 | HmIP-BS2 | [V1.8.8](changelogs/changelog_HmIP-BS2_update_V1_8_8_220225.md) |
@@ -41,6 +42,7 @@ _last generated: 12.01.2026, 13:11:48 Uhr_
 | HmIP-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C10_update_2_4_6_230804.md) |
 | HmIP-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL24_C6_update_2_4_6_230804.md) |
 | HmIP-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIP_FALMOT_C12_update_V1_6_2_240611.md) |
+| HmIP-FALMOT-C8 | [V1.6.12](changelogs/changelog_HmIP-FALMOT-C8_update_V1_6_12_250527.md) |
 | HmIP-FBL | [V1.10.16](changelogs/changelog_HmIP-FBL_update_V1_10_16_231115.md) |
 | HmIP-FCI1 | [V1.0.14](changelogs/changelog_HmIP-FCI1_update_V1_0_14_181114.md) |
 | HmIP-FCI6 | [V1.0.18](changelogs/changelog_HmIP-FCI6_update_V1_0_18_221010.md) |
@@ -149,6 +151,8 @@ _last generated: 12.01.2026, 13:11:48 Uhr_
 | HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) |
 | HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) |
 | HmIP-WSM | [V1.2.2](changelogs/changelog_HmIP-WSM_update_V1_2_2_250617.md) |
+| HmIP-WSS | [V1.0.14](changelogs/changelog_HmIP-WSS_update_V1_0_14_251106.md) |
+| HmIP-WSS-GB | [V1.0.14](changelogs/changelog_HmIP-WSS-GB_update_V1_0_14_251106.md) |
 | HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) |
 | HmIP-WTH-1 | [V1.2.8](changelogs/changelog_HmIP-WTH-1_update_V1_2_8_240816.md) |
 | HmIP-WTH-2 | [V3.0.2](changelogs/changelog_HmIP_WTH_2_update_3_0_2_240416.md) |
@@ -212,8 +216,13 @@ _last generated: 12.01.2026, 13:11:48 Uhr_
 | Device Model | Version |
 | ------------- |:-------------:|
 | ELV-SH-BM-S | [V1.0.0](changelogs/changelog_ELV-SH-BM-S_update_V1_0_0_231011.md) |
+| ELV-SH-CRC | [V2.8.8](changelogs/changelog_ELV-SH-CRC_update_V2_8_8_250620.md) |
 | ELV-SH-CTH | [V1.0.10](changelogs/changelog_ELV-SH-CTH_update_V1_0_10_240807.md) |
+| ELV-SH-CTV | [V1.0.6](changelogs/changelog_ELV-SH-CTV_update_V1_0_6_241028.md) |
+| ELV-SH-KRC | [V2.8.8](changelogs/changelog_ELV-SH-KRC_update_V2_8_8_250708.md) |
+| ELV-SH-PTI2 | [V1.0.12](changelogs/changelog_ELV-SH-PTI2_update_V1_0_12_251023.md) |
 | ELV-SH-SMSI | [V1.0.12](changelogs/changelog_ELV-SH-SMSI_update_V1_0_12_250613.md) |
+| ELV-SH-SPS25 | [V1.0.8](changelogs/changelog_ELV-SH-SPS25_update_V1_0_8_250723.md) |
 | ELV-SH-TACO | [V1.2.4](changelogs/changelog_ELV-SH-TACO_update_V1_2_4_250328.md) |
 | ELV-SH-WSC | [V1.0.8](changelogs/changelog_ELV-SH-WSC_update_V1_0_8_211001.md) |
 | ELV-SH-WSM | [V1.2.2](changelogs/changelog_ELV-SH-WSM_update_V1_2_2_250617.md) |
