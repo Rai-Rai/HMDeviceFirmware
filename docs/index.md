@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 04.02.2026, 13:16:07 Uhr_
+_last generated: 05.02.2026, 13:16:03 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -108,7 +108,7 @@ _last generated: 04.02.2026, 13:16:07 Uhr_
 | HmIP-SMO230 | [V3.8.104](changelogs/changelog_HmIP-SMO230_update_V3_8_104_240131.md) |
 | HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) |
 | HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) |
-| HmIP-SPI | [V1.4.0](changelogs/changelog_HmIP-SPI_update_V1_4_0_180314.md) |
+| HmIP-SPI | [V3.2.48](changelogs/changelog_HmIP-SPI_update_V3_2_48_220718.md) |
 | HmIP-SRD | [V1.0.20](changelogs/changelog_HmIP-SRD_update_V1_0_20_220929.md) |
 | HmIP-SRH | [V1.2.12](changelogs/changelog_HmIP-SRH_update_V1_2_12_221017.md) |
 | HmIP-STE2-PCB | [V1.0.28](changelogs/changelog_HmIP-STE2-PCB_update_V1_0_28_220930.md) |
@@ -156,7 +156,7 @@ _last generated: 04.02.2026, 13:16:07 Uhr_
 | HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) |
 | HmIP-WTH-1 | [V1.2.8](changelogs/changelog_HmIP-WTH-1_update_V1_2_8_240816.md) |
 | HmIP-WTH-2 | [V3.0.2](changelogs/changelog_HmIP_WTH_2_update_3_0_2_240416.md) |
-| HmIP-WTH-B-2 | [V1.4.2](changelogs/changelog_HmIP-WTH-B-2_update_V1_4_2_240418.md) |
+| HmIP-WTH-B-2 | [V1.4.4](changelogs/changelog_HmIP-WTH-B-2_update_V1_4_4_251128.md) |
 | HmIP-WTH-B-A | [V1.4.2](changelogs/changelog_HmIP-WTH-B-A_update_V1_4_2_240418.md) |
 | HmIP-WUA | [V1.0.16](changelogs/changelog_HmIP-WUA_update_V1_0_16_221028.md) |
 | HmIP-eTRV | [V2.2.12](changelogs/changelog_HmIP_eTRV_update_2_2_12_240610.md) |
