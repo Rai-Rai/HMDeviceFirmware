@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 10.02.2026, 13:18:53 Uhr_
+_last generated: 11.02.2026, 13:17:32 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -148,6 +148,8 @@ _last generated: 10.02.2026, 13:18:53 Uhr_
 | HmIP-WRC2-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-2_update_V2_8_8_250526.md) |
 | HmIP-WRC2-A-2 | [V2.8.8](changelogs/changelog_HmIP-WRC2-A-2_update_V2_8_8_250526.md) |
 | HmIP-WRC6 | [V2.2.14](changelogs/changelog_HMIP-WRC6_update_V2_2_14_220324.md) |
+| HmIP-WRC6-230 | [V1.0.28](changelogs/changelog_HmIP-WRC6-230-F_update_V1_0_28_251120.md) |
+| HmIP-WRC6-230-A | [V1.0.28](changelogs/changelog_HmIP-WRC6-230-A-F_update_V1_0_28_251120.md) |
 | HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) |
 | HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) |
 | HmIP-WSM | [V1.2.2](changelogs/changelog_HmIP-WSM_update_V1_2_2_250617.md) |
