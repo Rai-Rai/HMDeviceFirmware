@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 01.03.2026, 13:11:53 Uhr_
+_last generated: 02.03.2026, 13:16:20 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -105,8 +105,8 @@ _last generated: 01.03.2026, 13:11:53 Uhr_
 | HmIP-SMO-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-2_update_V3_6_72_230504.md) |
 | HmIP-SMO-A | [V3.6.72](changelogs/changelog_HmIP-SMO-A_update_V3_6_72_230504.md) |
 | HmIP-SMO-A-2 | [V3.6.72](changelogs/changelog_HmIP-SMO-A-2_update_V3_6_72_230504.md) |
-| HmIP-SMO230 | [V3.8.104](changelogs/changelog_HmIP-SMO230_update_V3_8_104_240131.md) |
-| HmIP-SMO230-A | [V3.8.104](changelogs/changelog_HmIP-SMO230-A_update_V3_8_104_240131.md) |
+| HmIP-SMO230 | [V3.10.12](changelogs/changelog_HmIP-SMO230_update_V3_10_12_260213.md) |
+| HmIP-SMO230-A | [V3.10.12](changelogs/changelog_HmIP-SMO230-A_update_V3_10_12_260213.md) |
 | HmIP-SPDR | [V1.2.12](changelogs/changelog_HmIP-SPDR_update_V1_2_12_230510.md) |
 | HmIP-SPI | [V3.2.48](changelogs/changelog_HmIP-SPI_update_V3_2_48_220718.md) |
 | HmIP-SRD | [V1.0.20](changelogs/changelog_HmIP-SRD_update_V1_0_20_220929.md) |
