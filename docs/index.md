@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 14.04.2026, 13:18:23 Uhr_
+_last generated: 15.04.2026, 13:18:55 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -40,6 +40,7 @@ _last generated: 14.04.2026, 13:18:23 Uhr_
 | HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) |
 | HmIP-DRSI4 | [V1.4.4](changelogs/changelog_HmIP-DRSI4_update_V1_4_4_221207.md) |
 | HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) |
+| HmIP-E27 | [V1.0.26](changelogs/changelog_HmIP-E27_update_V1_0_26_260220.md) |
 | HmIP-ESI | [V1.6.6](changelogs/changelog_HmIP-ESI_update_V1_6_6_250228.md) |
 | HmIP-FAL230-C10 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C10_update_2_4_6_230804.md) |
 | HmIP-FAL230-C6 | [V2.4.6](changelogs/changelog_HmIP_FAL230_C6_update_2_4_6_230804.md) |
