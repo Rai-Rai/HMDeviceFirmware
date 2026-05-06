@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 05.05.2026, 13:19:51 Uhr_
+_last generated: 06.05.2026, 13:23:25 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -71,7 +71,7 @@ _last generated: 05.05.2026, 13:19:51 Uhr_
 | HmIP-MOD-HO | [V1.0.16](changelogs/changelog_HmIP-MOD-HO_update_V1_0_16_221020.md) |
 | HmIP-MOD-OC8 | [V1.8.12](changelogs/changelog_HmIP-MOD-OC8_update_V1_8_12_170803.md) |
 | HmIP-MOD-TM | [V1.0.2](changelogs/changelog_HmIP-MOD-TM_update_V1_0_2_221020.md) |
-| HmIP-MOD-WD-VK | [V1.0.6](changelogs/changelog_HmIP-MOD-WD-VK_update_V1_0_6_220727.md) |
+| HmIP-MOD-WD-VK | [V1.2.14](changelogs/changelog_HmIP-MOD-WD-VK_update_V1_2_14_260223.md) |
 | HmIP-MP3P | [V1.0.30](changelogs/changelog_HmIP-MP3P_update_V1_0_30_240515.md) |
 | HmIP-PCBS | [V2.10.2](changelogs/changelog_HmIP-PCBS_update_V2_10_2_171009.md) |
 | HmIP-PCBS2 | [V1.10.10](changelogs/changelog_HmIP-PCBS2_update_V1_10_10_180601.md) |
@@ -205,7 +205,8 @@ _last generated: 05.05.2026, 13:19:51 Uhr_
 | HmIPW-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIPW-FALMOT-C12_update_V1_6_2_240611.md) |
 | HmIPW-FIO6 | [V1.2.10](changelogs/changelog_HmIPW-FIO6_update_V1_2_10_230822.md) |
 | HmIPW-SCTHD | [V1.0.12](changelogs/changelog_HmIPW-SCTHD_update_V1_0_12_231130.md) |
-| HmIPW-SMI55 | [V1.0.20](changelogs/changelog_HmIPW-SMI55_update_V1_0_20_190613.md) |
+| HmIPW-SMI55 | [V3.10.8](changelogs/changelog_HmIPW-SMI55_update_V3_10_8_250721.md) |
+| HmIPW-SMI55-A | [V3.10.8](changelogs/changelog_HmIPW-SMI55-A_update_V3_10_8_250721.md) |
 | HmIPW-SPI | [V1.0.30](changelogs/changelog_HmIPW-SPI_update_V1_0_30_190709.md) |
 | HmIPW-STH | [V3.0.2](changelogs/changelog_HmIPW_STH_update_3_0_2_240503.md) |
 | HmIPW-STH-A | [V3.0.2](changelogs/changelog_HmIPW_STH_A_update_3_0_2_240503.md) |
