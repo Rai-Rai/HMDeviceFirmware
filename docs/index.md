@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 03.06.2026, 14:20:29 Uhr_
+_last generated: 04.06.2026, 13:52:11 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -38,7 +38,7 @@ _last generated: 03.06.2026, 14:20:29 Uhr_
 | HmIP-DRDI3 | [V1.4.8](changelogs/changelog_HmIP-DRDI3_update_V1_4_8_220323.md) |
 | HmIP-DRG-DALI | [V1.6.4](changelogs/changelog_HmIP-DRG-DALI_update_V1_6_4_251009.md) |
 | HmIP-DRSI1 | [V1.6.2](changelogs/changelog_HmIP-DRSI1_update_V1_6_2_221207.md) |
-| HmIP-DRSI4 | [V1.4.4](changelogs/changelog_HmIP-DRSI4_update_V1_4_4_221207.md) |
+| HmIP-DRSI4 | [V3.2.0](changelogs/changelog_HmIP-DRSI4_update_V3_2_0_250522.md) |
 | HmIP-DSD-PCB | [V1.0.6](changelogs/changelog_HmIP-DSD-PCB_update_V1_0_6_190927.md) |
 | HmIP-E27 | [V1.0.28](changelogs/changelog_HmIP-E27_update_V1_0_28_260305.md) |
 | HmIP-ESI | [V1.6.6](changelogs/changelog_HmIP-ESI_update_V1_6_6_250228.md) |
@@ -203,7 +203,7 @@ _last generated: 03.06.2026, 14:20:29 Uhr_
 | HmIPW-FAL24-C10 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C10_update_2_4_6_230815.md) |
 | HmIPW-FAL24-C6 | [V2.4.6](changelogs/changelog_HmIPW_FAL24_C6_update_2_4_6_230815.md) |
 | HmIPW-FALMOT-C12 | [V1.6.2](changelogs/changelog_HmIPW-FALMOT-C12_update_V1_6_2_240611.md) |
-| HmIPW-FIO6 | [V1.2.10](changelogs/changelog_HmIPW-FIO6_update_V1_2_10_230822.md) |
+| HmIPW-FIO6 | [V1.4.4](changelogs/changelog_HmIPW-FIO6_update_V1_4_4_251006.md) |
 | HmIPW-SCTHD | [V1.0.12](changelogs/changelog_HmIPW-SCTHD_update_V1_0_12_231130.md) |
 | HmIPW-SMI55 | [V3.10.8](changelogs/changelog_HmIPW-SMI55_update_V3_10_8_250721.md) |
 | HmIPW-SMI55-A | [V3.10.8](changelogs/changelog_HmIPW-SMI55-A_update_V3_10_8_250721.md) |
