@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 13.07.2026, 15:39:22 Uhr_
+_last generated: 14.07.2026, 14:33:21 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -56,6 +56,7 @@ _last generated: 13.07.2026, 15:39:22 Uhr_
 | HmIP-FSM | [V1.24.6](changelogs/changelog_HmIP-FSM_update_V1_24_6_230323.md) |
 | HmIP-FSM16 | [V1.28.0](changelogs/changelog_HmIP-FSM16_update_V1_28_0_250423.md) |
 | HmIP-FWI | [V1.0.14](changelogs/changelog_HmIP-FWI_update_V1_0_14_220428.md) |
+| HmIP-GU10 | [V1.0.28](changelogs/changelog_HmIP-GU10_update_V1_0_28_260305.md) |
 | HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) |
 | HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) |
 | HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) |
@@ -138,6 +139,8 @@ _last generated: 13.07.2026, 15:39:22 Uhr_
 | HmIP-SWO-B | [V1.2.8](changelogs/changelog_HmIP-SWO-B_update_V1_2_8_240417.md) |
 | HmIP-SWO-PL | [V1.2.8](changelogs/changelog_HmIP-SWO-PL_update_V1_2_8_240417.md) |
 | HmIP-SWO-PR | [V1.2.8](changelogs/changelog_HmIP-SWO-PR_update_V1_2_8_240417.md) |
+| HmIP-UDI-PB2 | [V2.6.14](changelogs/changelog_HmIP-UDI-PB2_update_V2_6_14_260519.md) |
+| HmIP-UDI-PB2-A | [V2.6.14](changelogs/changelog_HmIP-UDI-PB2-A_update_V2_6_14_260519.md) |
 | HmIP-USBSM | [V1.0.16](changelogs/changelog_HmIP-USBSM_update_V1_0_16_210316.md) |
 | HmIP-WGC | [V1.0.4](changelogs/changelog_HmIP-WGC_update_V1_0_4_221206.md) |
 | HmIP-WGS | [V1.0.22](changelogs/changelog_HmIP-WGS-F_update_V1_0_22_250417.md) |
@@ -162,6 +165,8 @@ _last generated: 13.07.2026, 15:39:22 Uhr_
 | HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) |
 | HmIP-WTH-1 | [V1.2.8](changelogs/changelog_HmIP-WTH-1_update_V1_2_8_240816.md) |
 | HmIP-WTH-2 | [V3.0.2](changelogs/changelog_HmIP_WTH_2_update_3_0_2_240416.md) |
+| HmIP-WTH-3 | [V1.4.8](changelogs/changelog_HmIP-WTH-3_update_V1_4_8_260415.md) |
+| HmIP-WTH-3-A | [V1.4.8](changelogs/changelog_HmIP-WTH-3-A_update_V1_4_8_260415.md) |
 | HmIP-WTH-B-2 | [V1.4.4](changelogs/changelog_HmIP-WTH-B-2_update_V1_4_4_251128.md) |
 | HmIP-WTH-B-A | [V1.6.2](changelogs/changelog_HmIP-WTH-B-A_update_V1_6_2_260423.md) |
 | HmIP-WUA | [V1.0.16](changelogs/changelog_HmIP-WUA_update_V1_0_16_221028.md) |
