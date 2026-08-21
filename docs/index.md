@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 20.08.2026, 13:12:03 Uhr_
+_last generated: 21.08.2026, 13:11:57 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -76,7 +76,6 @@ _last generated: 20.08.2026, 13:12:03 Uhr_
 | HmIP-PCBS | [V2.10.2](changelogs/changelog_HmIP-PCBS_update_V2_10_2_171009.md) |
 | HmIP-PCBS2 | [V1.10.10](changelogs/changelog_HmIP-PCBS2_update_V1_10_10_180601.md) |
 | HmIP-PDT | [V2.2.4](changelogs/changelog_HmIP-PDT_update_V2_2_4_231123.md) |
-| HmIP-PDT-A | [V2.2.4](changelogs/changelog_HmIP-PDT-A_update_V2_2_4_250220.md) |
 | HmIP-PDT-CH | [V2.2.4](changelogs/changelog_HmIP-PDT-CH_update_V2_2_4_231123.md) |
 | HmIP-PDT-PE | [V2.2.4](changelogs/changelog_HmIP-PDT-PE_update_V2_2_4_231123.md) |
 | HmIP-PDT-UK | [V2.2.4](changelogs/changelog_HmIP-PDT-UK_update_V2_2_4_231123.md) |
