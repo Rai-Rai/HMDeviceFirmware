@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 27.08.2026, 16:37:40 Uhr_
+_last generated: 28.08.2026, 16:57:24 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -52,7 +52,9 @@ _last generated: 27.08.2026, 16:37:40 Uhr_
 | HmIP-FCI1 | [V1.0.14](changelogs/changelog_HmIP-FCI1_update_V1_0_14_181114.md) |
 | HmIP-FDT | [V2.2.4](changelogs/changelog_HmIP-FDT_update_V2_2_4_231123.md) |
 | HmIP-FROLL | [V1.10.16](changelogs/changelog_HmIP-FROLL_update_V1_10_16_230616.md) |
+| HmIP-FS6 | [V1.0.14](changelogs/changelog_HmIP-FS6_update_V1_0_14_260331.md) |
 | HmIP-FSI16 | [V3.0.6](changelogs/changelog_HmIP-FSI16_update_V3_0_6_220504.md) |
+| HmIP-FSI6 | [V1.0.14](changelogs/changelog_HmIP-FSI6_update_V1_0_14_260331.md) |
 | HmIP-FSM | [V1.24.6](changelogs/changelog_HmIP-FSM_update_V1_24_6_230323.md) |
 | HmIP-FSM16 | [V1.28.0](changelogs/changelog_HmIP-FSM16_update_V1_28_0_250423.md) |
 | HmIP-FWI | [V1.0.14](changelogs/changelog_HmIP-FWI_update_V1_0_14_220428.md) |
