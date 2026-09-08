@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 07.09.2026, 13:00:50 Uhr_
+_last generated: 08.09.2026, 12:58:51 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -59,8 +59,8 @@ _last generated: 07.09.2026, 13:00:50 Uhr_
 | HmIP-FSM16 | [V1.28.0](changelogs/changelog_HmIP-FSM16_update_V1_28_0_250423.md) |
 | HmIP-FWI | [V1.0.14](changelogs/changelog_HmIP-FWI_update_V1_0_14_220428.md) |
 | HmIP-GU10 | [V1.0.28](changelogs/changelog_HmIP-GU10_update_V1_0_28_260305.md) |
-| HmIP-HAP2 | [V1.0.44](changelogs/changelog_HmIP-HAP2_1_0_44_250924.md) |
-| HmIP-HAP2-A | [V1.0.44](changelogs/changelog_HmIP-HAP2-A_1_0_44_250924.md) |
+| HmIP-HAP2 | [V1.0.48](changelogs/changelog_HmIP-HAP2_1_0_48_251202.md) |
+| HmIP-HAP2-A | [V1.0.48](changelogs/changelog_HmIP-HAP2-A_1_0_48_251202.md) |
 | HmIP-KRC4 | [V2.6.2](changelogs/changelog_HmIP-KRC4_update_V2_6_2_240925.md) |
 | HmIP-KRC4-2 | [V2.6.2](changelogs/changelog_HmIP-KRC4-2_update_V2_6_2_240925.md) |
 | HmIP-KRCA | [V2.6.2](changelogs/changelog_HmIP-KRCA_update_V2_6_2_240925.md) |
@@ -161,7 +161,7 @@ _last generated: 07.09.2026, 13:00:50 Uhr_
 | HmIP-WRC6-230-A | [V1.0.28](changelogs/changelog_HmIP-WRC6-230-A-F_update_V1_0_28_251120.md) |
 | HmIP-WRCC2 | [V2.2.14](changelogs/changelog_HmIP-WRCC2_update_V2_2_14_220406.md) |
 | HmIP-WRCD | [V1.4.8](changelogs/changelog_HmIP-WRCD_update_V1_4_8_230419.md) |
-| HmIP-WSM | [V1.4.10](changelogs/changelog_HmIP-WSM_update_V1_4_10_260324.md) |
+| HmIP-WSM | [V1.4.12](changelogs/changelog_HmIP-WSM_update_V1_4_12_260702.md) |
 | HmIP-WSS | [V1.0.14](changelogs/changelog_HmIP-WSS_update_V1_0_14_251106.md) |
 | HmIP-WSS-GB | [V1.0.14](changelogs/changelog_HmIP-WSS-GB_update_V1_0_14_251106.md) |
 | HmIP-WTH | [V3.0.2](changelogs/changelog_HmIP_WTH_update_3_0_2_240503.md) |
@@ -239,7 +239,7 @@ _last generated: 07.09.2026, 13:00:50 Uhr_
 | ELV-SH-SPS25 | [V1.0.8](changelogs/changelog_ELV-SH-SPS25_update_V1_0_8_250723.md) |
 | ELV-SH-TACO | [V1.2.4](changelogs/changelog_ELV-SH-TACO_update_V1_2_4_250328.md) |
 | ELV-SH-WSC | [V1.0.8](changelogs/changelog_ELV-SH-WSC_update_V1_0_8_211001.md) |
-| ELV-SH-WSM | [V1.4.10](changelogs/changelog_ELV-SH-WSM_update_V1_4_10_260324.md) |
+| ELV-SH-WSM | [V1.4.12](changelogs/changelog_ELV-SH-WSM_update_V1_4_12_260702.md) |
 </details>
 <details open><summary>HM</summary>
 
