@@ -1,6 +1,6 @@
 ## Homematic Device Firmware Changelogs
 
-_last generated: 08.11.2026, 12:55:25 Uhr_
+_last generated: 09.11.2026, 12:56:34 Uhr_
 
 <details open><summary>HmIP</summary>
 
@@ -175,16 +175,16 @@ _last generated: 08.11.2026, 12:55:25 Uhr_
 | HmIP-eTRV | [V2.2.12](changelogs/changelog_HmIP_eTRV_update_2_2_12_240610.md) |
 | HmIP-eTRV-2 | [V2.2.012](changelogs/changelog_HmIP_eTRV_2_update_2_2_12_240503.md) |
 | HmIP-eTRV-2-UK | [V2.2.12](changelogs/changelog_HmIP_eTRV_2_UK_update_2_2_12_240503.md) |
-| HmIP-eTRV-2_I9F | [V2.2.22](changelogs/changelog_HmIP-eTRV-2_I9F_update_V2_2_22_240503.md) |
+| HmIP-eTRV-2_I9F | [V2.2.24](changelogs/changelog_HmIP-eTRV-2_I9F_update_V2_2_24_261001.md) |
 | HmIP-eTRV-3 | [V1.0.6](changelogs/changelog_HmIP-eTRV-3_update_V1_0_6_260930.md) |
 | HmIP-eTRV-B-2 | [V1.4.2](changelogs/changelog_HmIP_eTRV_B_2_update_1_4_2_250923.md) |
 | HmIP-eTRV-B-2_R4M | [V1.4.0](changelogs/changelog_HmIP-eTRV-B-2_R4M_update_V1_4_0_250616.md) |
 | HmIP-eTRV-C | [V1.4.014](changelogs/changelog_HmIP_eTRV_C_update_1_4_14_220128.md) |
 | HmIP-eTRV-C-2 | [V1.4.14](changelogs/changelog_HmIP-eTRV-C-2_update_V1_4_14_220128.md) |
 | HmIP-eTRV-CL | [V1.0.16](changelogs/changelog_HmIP-eTRV-CL_update_V1_0_16_221214.md) |
-| HmIP-eTRV-E | [V1.4.8](changelogs/changelog_HmIP-eTRV-E_update_V1_4_8_240924.md) |
-| HmIP-eTRV-E-A | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-A_update_V1_4_8_240924.md) |
-| HmIP-eTRV-E-S | [V1.4.8](changelogs/changelog_HmIP-eTRV-E-S_update_V1_4_8_240924.md) |
+| HmIP-eTRV-E | [V1.6.12](changelogs/changelog_HmIP-eTRV-E_update_V1_6_12_261016.md) |
+| HmIP-eTRV-E-A | [V1.6.12](changelogs/changelog_HmIP-eTRV-E-A_update_V1_6_12_261016.md) |
+| HmIP-eTRV-E-S | [V1.6.12](changelogs/changelog_HmIP-eTRV-E-S_update_V1_6_12_261016.md) |
 | HmIP-eTRV-F | [V1.0.36](changelogs/changelog_HmIP-eTRV-F_update_V1_0_36_260930.md) |
 </details>
 <details open><summary>HmIPW</summary>
